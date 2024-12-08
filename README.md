@@ -33,18 +33,17 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-
-![bool code](https://github.com/user-attachments/assets/98115817-d9f0-45c7-b41d-8e053fda153f)
-
+![boolen code](https://github.com/user-attachments/assets/24c2a4e6-28b2-46a3-9b09-26da6720f677)
 
 
 **RTL realization**
 
-![bool diagram](https://github.com/user-attachments/assets/9d437b2e-95c0-4c04-83eb-400a851ce76c)
+![boolen diagram](https://github.com/user-attachments/assets/baa65a79-b67f-40e1-a7f9-9de06cd34a99)
 
 **Output:**
+![boolen waveform](https://github.com/user-attachments/assets/eff45107-36dd-402d-9d4c-a43cd4b2961b)
 
-![bool waveform](https://github.com/user-attachments/assets/8c4c4aba-a613-4911-921c-3cd60479ff04)
+
 
 
 **Result:**
